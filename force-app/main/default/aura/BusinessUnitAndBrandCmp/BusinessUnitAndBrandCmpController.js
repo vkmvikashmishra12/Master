@@ -1,4 +1,6 @@
 ({
+console.log()sdklfkff;
+
 	getBusinessUnitRecord : function(component, event, helper) {		
          helper.getBusinessUnitRecord(component, event, helper);
 	},
